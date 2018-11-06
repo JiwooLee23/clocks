@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background: red;
+}
+#clock-container {
+  display: inline-block;
+  position: relative;
+  width: 50%;
+  padding-bottom: 100%;
+  vertical-align: middle;
+  overflow: hidden;
+  background: red;
+}
+#face { stroke-width: 5px; stroke: yellow; }
+#hour, #min, #sec {
+  stroke-width: 2px;
+  fill: red;
+}
+#sec { stroke: white; }

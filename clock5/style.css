@@ -1,0 +1,18 @@
+
+#clock {
+width: 500px;
+height: 100px;
+color: red;
+text-align: center;
+font: bold 50pt "Arial Black", Gadget, sans-serif;
+background: yellow;
+padding: 20px;
+border: solid  5px;
+border-radius: 10px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: blue;
+  font-size: 100px;
+}
